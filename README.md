@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am a mechanical engineer with a background on tech. I worked on a diversity of projects related to industry 4.0.<br>These projects' scopes are from robots to AI for quality control.<br>Checkout some of the tech that I already worked on bellow. Also, check my LinkedIn account for more indepth information. 
+I am a mechanical engineer with a background on tech. I worked on a diversity of projects related to industry 4.0.<br>
+Solved mostly manufacturing problems with application ranging from machine vision, basic web apps, data science and machine learning. Hence, these projects' scopes are from robots to AI for quality control.<br>Checkout some of the tech that I already worked on bellow. Also, check my LinkedIn account for more indepth information. 
 
 
 ## 🌐 Socials:
