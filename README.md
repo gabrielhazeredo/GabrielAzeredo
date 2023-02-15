@@ -1,7 +1,6 @@
 # 💫 About Me:
 I am a mechanical engineer with a background on tech and passionate about Data Science. I worked on a diversity of projects related to industry 4.0.<br>
 Solved mostly manufacturing problems with application ranging from machine vision, basic web apps, data science and machine learning. Hence, these projects' scopes are from robots to AI for quality control.<br>
-<br>
 Despite this diverse background, I have mostly worked with Data Science which is my biggest passion and where I have my skillset<br>
 Checkout some of the tech that I already worked on bellow. Also, check my LinkedIn account for more indepth information. 
 
